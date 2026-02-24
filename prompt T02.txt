@@ -1,0 +1,6 @@
+tolong bantu saya menyelesaikan soal berikut ini sebuah data nilai siswa disimpan dalam sebuah rak fisik yang sesusun secara rapata berikut diberikan 
+ pola Jumlah total data (N). 
+  Deret nilai (n1, n2, …, n). 
+  Kode kelompok siswa
+ buatkan program yang mampu menentukan total nilai kelompok yang diminta 
+ pada contoh saya itu diberikan yohana 75 kemudian julius 65 kemudian indah 80 dan yan terakhir wilson 70 buatkan saya kode program nya sesuai instruksi yg sudah saya berikan sebelumnya \

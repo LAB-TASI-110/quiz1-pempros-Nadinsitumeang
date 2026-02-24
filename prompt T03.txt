@@ -1,0 +1,3 @@
+saya disuruh untuk membuat sebuah sistem dimana sistem nya harus terstruktur jelas input dan juga output nya adapun sistem nya itu Buatlah sebuah sistem yang dapat mendukung operasional sehari-hari di Laundry Del. berikan saya satu contoh selain dari kasir  kemudian berikan kode program bahasa c nya 
+tolong buatkan program nya menggunakan  array 
+saya ingin mencoba meng run kan program nya berikan saya contoh input an nya 
